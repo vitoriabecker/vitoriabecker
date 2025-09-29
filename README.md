@@ -1,6 +1,6 @@
-<h1 align="center">hi, i'm <a href="https://github.com/vitoriabecker">Vitória Müller Becker</a>!</h1> 
+<h1>Hi, I'm <a href="https://github.com/vitoriabecker">Vitória Müller Becker</a>!</h1> 
 
-<p align="center">i'm a System Development Student at Universidade do Vale do Rio dos Sinos (Unisinos)</p>
+<p>I'm a Systems Development student currently focusing on Full Stack development with Python, Django, HTML, CSS and JavaScript.</p>
 
 <p align="center">
   <a href="https://github.com/vitoriabecker"><img src="https://github-readme-stats.vercel.app/api?username=vitoriabecker&hide_border=true&show_icons=true" alt="vitoriabecker's github stats"></a>
