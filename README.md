@@ -7,5 +7,5 @@ Right now, I'm focused on **Full Stack development**, working with:<br>
 
 I'm currently:
 - 🎬 Building a movie project
-- 🌈 Learning **TailwindCSS** to expand my styling skills
+- ✨ Learning **TailwindCSS** to expand my styling skills
 
