@@ -1,13 +1,14 @@
-<h2>Hi, I'm <a href="https://github.com/vitoriabecker" style="color:hotpink;">Vitória Müller Becker</a>!</h2> 
+### Hi, I'm Vitória ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
-<p>I'm a Systems Development student almost graduating.</p>
+### I'm a Systems Development student almost graduating.
 
-<p> Right now, I'm focused on <strong>Full Stack development</strong>, working with:</p>
-<p><strong>Python | Django | HTML, CSS | JavaScript</strong></p>
+Right now, I'm focused on **Full Stack development**, working with:
+**Python** | **Django** | **HTML, CSS** | **JavaScript**
 
-<p>I'm currently:</p>
-<p><strong>–</strong> Building a movie project</p>
-<p><strong>–</strong> Learning TailwindCSS to expand my styling skills</p>
+I'm currently:
+**–** Building a movie project
+**–** Learning TailwindCSS to expand my styling skills
+
 
 <!--
 **vitoriabecker/vitoriabecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
