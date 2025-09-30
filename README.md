@@ -2,10 +2,6 @@
 
 <p>I'm a Systems Development student currently focusing on Full Stack development with Python, Django, HTML, CSS and JavaScript.</p>
 
-<p>
-  <a href="https://github.com/vitoriabecker"><img src="https://github-readme-stats.vercel.app/api?username=vitoriabecker&hide_border=true&show_icons=true" alt="vitoriabecker's github stats"></a>
-</p>
-
 <!--
 **vitoriabecker/vitoriabecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
