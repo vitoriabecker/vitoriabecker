@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://github.com/vitoriabecker">Vitória Müller Becker</a>!</h1> 
+<h2>Hi, I'm <a href="https://github.com/vitoriabecker">Vitória Müller Becker</a>!</h2> 
 
 <p>I'm a Systems Development student currently focusing on Full Stack development with Python, Django, HTML, CSS and JavaScript.</p>
 
