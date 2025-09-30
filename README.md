@@ -1,26 +1,11 @@
-### Hi, I'm Vitória ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
+### Hi, I'm Vitória
 
-### I'm a Systems Development student almost graduating.
+#### I'm a Systems Development student almost graduating. ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
-Right now, I'm focused on **Full Stack development**, working with:
-**Python** | **Django** | **HTML, CSS** | **JavaScript**
+Right now, I'm focused on **Full Stack development**, working with:<br>
+**Python** | **Django** | **HTML, CSS** | **JavaScript**<br>
 
-I'm currently:
-**–** Building a movie project
-**–** Learning TailwindCSS to expand my styling skills
+I'm currently:<br>
+- 🎬 Building a movie project
+- 🌈 Learning **TailwindCSS** to expand my styling skills
 
-
-<!--
-**vitoriabecker/vitoriabecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
